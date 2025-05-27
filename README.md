@@ -39,9 +39,11 @@ Essas análises me ajudaram a entender melhor o comportamento das lojas e enxerg
 
 Eu trouxe os dados à vida com pelo menos **3 tipos diferentes de gráficos**, para facilitar a interpretação:
 
-1. **Gráfico de barras** mostrando os produtos mais vendidos por categoria
+1. **Gráfico de barras** mostrando os produtos mais vendidos por categoria e por loja
 2. **Gráfico de barras comparando o faturamento total das lojas**
-3. (Opcional) **Gráfico de pizza ou outro tipo complementar**, para ilustrar avaliações ou formas de pagamento, por exemplo
+3. **Gráfico de linha**, para ilustrar o faturamento das lojas
+4. **Gráfico de pizza**, trazendo o valor do frete médio por loja e em percentual o quanto que cada loja representa no total de frete médio somado
+5. 
 
 ---
 
@@ -61,7 +63,7 @@ Usei `urllib` para carregar os dados direto das URLs no GitHub da Alura.
 ## ✅ Recomendação final
 
 Com tudo isso em mãos, escrevi uma conclusão explicando **qual loja o Senhor João deveria vender e por quê**.  
-Claro, tudo com base nos dados — sem achismos! 😄
+Claro, tudo com base nos dados — sem achismos! 
 
 ---
 
