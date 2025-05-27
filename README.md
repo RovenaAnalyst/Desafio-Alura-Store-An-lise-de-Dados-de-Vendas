@@ -37,13 +37,12 @@ Essas análises me ajudaram a entender melhor o comportamento das lojas e enxerg
 
 ## 📈 Gráficos que criei
 
-Eu trouxe os dados à vida com pelo menos **5 tipos diferentes de gráficos**, para facilitar a interpretação:
+Eu trouxe os dados à vida com pelo menos **4 tipos diferentes de gráficos**, para facilitar a interpretação:
 
 1. **Gráfico de barras** mostrando os produtos mais vendidos por categoria e por loja
 2. **Gráfico de barras comparando o faturamento total das lojas**
 3. **Gráfico de linha**, para ilustrar o faturamento das lojas
 4. **Gráfico de pizza**, trazendo o valor do frete médio por loja e em percentual o quanto que cada loja representa no total de frete médio somado
-5. 
 
 ---
 
